@@ -4,5 +4,5 @@
 
 # Lesson 2: Prompting User Input
 
-# name = gets
-# puts "Hey, #{name}! Nice to meet you!"
+ name = gets
+ puts "Hey, #{name}! Nice to meet you!"
